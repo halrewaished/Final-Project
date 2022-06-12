@@ -8,4 +8,4 @@ Designing a website/application owned by water provider to allow users to view m
 https://water-provider.herokuapp.com/
 
 # endpoints documentation
-https://documenter.getpostman.com/view/21096479/Uz5NjDG
+https://documenter.getpostman.com/view/21096479/Uz5NjDG1
